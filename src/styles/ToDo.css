@@ -66,3 +66,28 @@ color: #ccc;
 {
     height: 3rem;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 600px) {
+	.todo-buttons {
+    flex-shrink: 0;
+    margin-left: -11rem;
+}
+}
+
+/* @media (min-width: 601px) and (max-width: 900px) {
+ 
+} */

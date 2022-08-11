@@ -39,7 +39,7 @@ export default class NewToDoForm extends Component {
             value={this.state.task}
             onChange={this.handleChange}
           />
-          <button>Add </button>
+          <button >Add </button>
         </form>
     );
   }
